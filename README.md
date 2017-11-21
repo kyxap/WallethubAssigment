@@ -1,4 +1,4 @@
-# My assignments for Wallethub 
+# Assignments from Wallethub 
 
 ### Manual part
 
