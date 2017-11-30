@@ -6,7 +6,7 @@
     <packaging>pom</packaging>
     <version>1.0-SNAPSHOT</version>
     <name>Selenium tests project</name>
-    <description>Web Autotests simple project. </description>
+    <description>Web Autotests</description>
     <url>http://maven.apache.org</url>
 
     <properties>

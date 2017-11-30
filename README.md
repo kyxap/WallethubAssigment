@@ -21,8 +21,9 @@ How to run it (Tested on MacOS only):
 
 * Install: java 1.8, chrome 62
 * `git clone`
+* Build module `selenium-app` with Maven
 * Resolve TODO (insert credentials for login/pass in tests class)
-* Run Facebook & Wallethub tests
+* Run Facebook/Wallethub tests with TestNG
 
 Automation test results:
 
