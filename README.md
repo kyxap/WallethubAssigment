@@ -23,7 +23,7 @@ How to run it (Tested on MacOS only):
 * `git clone`
 * Build module `selenium-app` with Maven
 * Resolve TODO (insert credentials for login/pass in tests class)
-* Run Facebook/Wallethub tests with TestNG
+* Run Facebook/Wallethub tests with TestNG OR use `testng.xml`
 
 Automation test results:
 

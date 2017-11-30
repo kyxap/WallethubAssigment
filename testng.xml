@@ -1,0 +1,13 @@
+<suite name="Full Suite" verbose="1" >
+    <test name="For Facebook" >
+        <classes>
+            <class name="com.selenium.test.testng.tests.Facebook" />
+        </classes>
+    </test>
+
+    <test name="For Wallethub">
+        <classes>
+            <class name="com.selenium.test.testng.tests.Wallethub"/>
+        </classes>
+    </test>
+</suite>
