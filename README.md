@@ -17,7 +17,7 @@ QA Test 2
 
 Completed with selenium + testng for Chrome only as maven project
 
-How to run it:
+How to run it (Tested on MacOS only):
 
 * Install: java 1.8, chrome 62
 * `git clone`
